@@ -17,7 +17,7 @@
   "scripts": {
     "start": "react-scripts start",
     "install:dependecy": "npm i",
-    "build": "react-scripts build",
+    "build": "npx react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",
     "allow": "chmod +x ./bin/deploy.sh",
